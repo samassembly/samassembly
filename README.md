@@ -1,5 +1,8 @@
-## Hi there 👋
-
+Hi, I'm Samuel Vogel
+- ⚙️ I’m an Automation Engineer at PCS Inc.
+- 🏁 I love participating in CTF events!
+- 🐻 I'm a proud graduate from the Boot.dev Backend Development Course
+- 🌱 I'm currently learning TypeScript
 <!--
 **samassembly/samassembly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
