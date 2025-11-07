@@ -1,4 +1,4 @@
-Hi, I'm Samuel Vogel
+#Hi, I'm Samuel Vogel
 - ⚙️ I’m an Automation Engineer at PCS Inc.
 - 🏁 I love participating in CTF events!
 - 🐻 I'm a proud graduate from the Boot.dev Backend Development Course
